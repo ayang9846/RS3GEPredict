@@ -1,6 +1,6 @@
 # Summary
 The Grand Exchange is an in-player marketplace for Runescape 3 and Old School Runescape players to sell and purchase in-game items. 
-Not only is it often used to sell and purchase valuable gear, but it also serves as a speculative platform for merchanting/flipping (for a more formal explaination, see the [the Runescape wiki's page](https://runescape.wiki/w/Trading_and_merchanting_guide)).
+Not only is it often used to sell and purchase valuable gear, but it also serves as a speculative platform for merchanting/flipping (for a more formal explaination, see [the Runescape wiki's page](https://runescape.wiki/w/Trading_and_merchanting_guide)).
 
 This repo represents 2022 code used to conduct three primary goals:
 1) Retriving time series Grand Exchange prices (the in-game marketplace for Runescape 3 items). (GEPredict- GE Price Extractor)
