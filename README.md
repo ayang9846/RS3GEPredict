@@ -3,9 +3,9 @@ The Grand Exchange is an in-player marketplace for Runescape 3 and Old School Ru
 Not only is it often used to sell and purchase valuable gear, but it also serves as a speculative platform for merchanting/flipping (for a more formal explaination, see [the Runescape wiki's page](https://runescape.wiki/w/Trading_and_merchanting_guide)).
 
 This repo represents 2022 code used to conduct three primary goals:
-1) Retriving time series Grand Exchange prices (the in-game marketplace for Runescape 3 items). (GEPredict- GE Price Extractor)
+1) Retriving time series Grand Exchange prices (the in-game marketplace for Runescape 3 items). (GEPredict- GE Price Extractor / GEPredict - General Use)
 2) Modeling and predicting the price of one item using an ARIMA approach. (GEPredict- Time Series Analysis)
-3) Modeling and predicting the price of one item using a neural net. (GEPredict- Machine Learning Model v2)
+3) Modeling and predicting the price of one item using a neural net. (GEPredict- Machine Learning Model v2 / GEPredict - General Use)
 
 It covers two modeling implementations: one in R, and one in Python.
 
